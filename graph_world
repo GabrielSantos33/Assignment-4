@@ -16,7 +16,7 @@ g.number_of_nodes()
 nx.draw(g, with_labels =1)
 plt.show()
 
-person = {2:"Carol" ,5:"Fernando", 7:"Heather", 8:"Ike", 9:"Jane", 6:"Garth", 4:"Ed", 1:"Beverly", 3:"Diane", 0:"Andre"}
+person = {2:"Joseph" ,5:"Ramiro", 7:"Pranti", 8:"Roberto", 9:"Jane", 6:"Cristian", 4:"Edward", 1:"Elvis", 3:"Diane", 0:"Abhi"}
 person
 
 #--------------Creating the graph object
